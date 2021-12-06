@@ -1,70 +1,51 @@
 hiphop
 chill
 anime
-blues
-children’s music
+blue
+children
 classical
-chamber music
+chamber
 comedy
-commercial 
+commercial
 country
 bluegrass
 dance
-breakbeat / breakstep
 hardcore
+tropical
 house
 techno
 trance
-goa trance
-uplifting trance
 disney
-easy listening
 electronic
 ambient
-chiptune 
 crunk
 drum & bass 
-oldschool jungle
 electro
-electro-swing 
-electronica
-electronic rock
-alternative dance
-eurodance
-hi-nrg
-uk garage
-folk music 
-midwest hip hop
+electronic
+folk
 holiday
 industrial
-electronic body music
 noise
-inspirational – christian & gospel
+inspirational
 instrumental
 jazz
 latin
 brazilian
 metal
-new age
 opera
 pop
-europop
-post-disco
+disco
 progressive
-progressive house / trance
-r&b/soul
+r&b
+soul
 reggae
-reggae en español
-raggamuffin
 ska
 rock
-rockabilly
-singer/songwriter
 soundtrack
-tex-mex / tejano
 vocal
 world
 africa
 asia
 caribbean
-south / southeast asia
+rap
+lofi
